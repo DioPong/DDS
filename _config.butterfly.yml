@@ -90,11 +90,12 @@ katex:
 
 # Favicon（網站圖標）
 # favicon: /img/favicon.png
-favicon: /image/avatar/favicon.png
+favicon: /image/avatar/dds-32.png
 
 # Avatar (頭像)
 avatar:
-  img: /image/avatar/minecraft-creeper-face.jpg
+  # minecraft-creeper-face.jpg
+  img: /image/avatar/dds.png
   effect: false
 
 # The banner image of home page
