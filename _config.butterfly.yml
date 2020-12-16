@@ -109,7 +109,7 @@ index_img:
 # "linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)"
 # "linear-gradient(45deg, #ec008c, #6739b6)"
 # default_top_img: "linear-gradient(180deg, #009efd 0%, #2af598 100%)"
-default_top_img: /image/background/bg_2.png
+default_top_img: /image/background/bg_3.png
 
 # The banner image of archive page
 archive_img:
