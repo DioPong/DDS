@@ -121,8 +121,6 @@ feed:
   path: atom.xml
   limit: false
 
-all_minifier: true
-
 # html_minifier:
 #   enable: true
 #   ignore_error: false
@@ -152,3 +150,5 @@ all_minifier: true
 #   pngquant: false
 #   progressive: false
 #   silent: false
+
+all_minifier: true
