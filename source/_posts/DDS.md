@@ -5,7 +5,7 @@ tags:
   - Minecraft
 keywords: "Minecraft"
 description: 提供服内部分信息
-cover: /image/resources/Minecraft-Server/background-shrink.jpg
+cover: /assets/resources/Minecraft-Server/background-shrink.jpg
 copyright: false
 sticky: 3
 ---
@@ -18,10 +18,10 @@ sticky: 3
 <!--{% btn 'https://butterfly.js.org/', 成员名单, far fa-hand-point-right,outline purple larger %}-->
 
 <!--
-<img src="/image/resources/Minecraft-Server/pmp-hero-minecraft.jpg" alt="drawing" style="width:600px;"/>
+<img src="/assets/resources/Minecraft-Server/pmp-hero-minecraft.jpg" alt="drawing" style="width:600px;"/>
 -->
 
-![](/image/resources/Minecraft-Server/pmp-hero-minecraft.jpg)
+![](/assets/resources/Minecraft-Server/pmp-hero-minecraft.jpg)
 
 ## 服务器信息
 
