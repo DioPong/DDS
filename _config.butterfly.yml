@@ -51,7 +51,7 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  # fab fa-github: https://github.com/xxxxx || Github
+  fab fa-github: https://github.com/DioPong/MCDReforged-Plugins || Github
   # fas fa-envelope: mailto:zeongpaang@outlok.com || Email
 
 # search (搜索)
