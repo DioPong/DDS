@@ -81,7 +81,7 @@ def run(server, info, commands):
         add_location(server, info, name, pos_info, alias)
     elif operation == 'rm':
         rm_location(server, info, commands[1])
-    elif operation == 'list':
+    elif operation in ['list', "l"]:
         list_location(server, info)
     else:
         transport(server, info, operation)
