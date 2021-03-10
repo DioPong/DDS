@@ -12,9 +12,9 @@ copyright: false
 
 ## 服务器指令
 
-{% btn 'https://minecraft.diopong.top/command/beep.html', 插件：Beep, ,outline green larger %}</br>
-{% btn 'https://minecraft.diopong.top/command/here.html', 插件：here, ,outline green larger %}</br>
-{% btn 'https://minecraft.diopong.top/command/home.html', 插件：home, ,outline green larger %}</br>
-{% btn 'https://minecraft.diopong.top/command/tpa.html', 插件：TPA, ,outline green larger %}</br>
-{% btn 'https://minecraft.diopong.top/command/SpecificRoutine.html', 插件：SpecificRoutine, ,outline green larger %}</br>
-{% btn 'https://minecraft.diopong.top/command/location.html', 插件：Location, ,outline green larger %}
+{% btn 'https://dds.2to.fun/command/beep.html', 插件：Beep, ,outline green larger %}</br>
+{% btn 'https://dds.2to.fun/command/here.html', 插件：here, ,outline green larger %}</br>
+{% btn 'https://dds.2to.fun/command/home.html', 插件：home, ,outline green larger %}</br>
+{% btn 'https://dds.2to.fun/command/tpa.html', 插件：TPA, ,outline green larger %}</br>
+{% btn 'https://dds.2to.fun/command/SpecificRoutine.html', 插件：SpecificRoutine, ,outline green larger %}</br>
+{% btn 'https://dds.2to.fun/command/location.html', 插件：Location, ,outline green larger %}

@@ -10,7 +10,7 @@ cover: /assets/resources/build_coral.png
 copyright: true
 ---
 
-{% btn 'https://minecraft.diopong.top/post/commands/', 返回, far fa-hand-point-right,outline green larger %}
+{% btn 'https://dds.2to.fun/post/commands/', 返回, far fa-hand-point-right,outline green larger %}
 
 ## HERE
 再聊天窗口发送当前坐标，并持续高亮玩家。

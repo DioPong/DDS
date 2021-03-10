@@ -638,7 +638,7 @@ aside:
     button:
       icon: fas fa-home
       text: 主页
-      link: https://minecraft.diopong.top
+      link: /
   card_announcement:
     enable: false
     content: This is my Blog

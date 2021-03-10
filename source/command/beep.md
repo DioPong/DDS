@@ -10,7 +10,7 @@ cover: /assets/resources/build_coral.png
 copyright: true
 ---
 
-{% btn 'https://minecraft.diopong.top/post/commands/', 返回, far fa-hand-point-right,outline green larger %}
+{% btn 'https://dds.2to.fun/post/commands/', 返回, far fa-hand-point-right,outline green larger %}
 
 ## BEEP
 本插件可以手动@其他玩家，用于提醒其他玩家。

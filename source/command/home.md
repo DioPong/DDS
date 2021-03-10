@@ -10,7 +10,7 @@ cover: /assets/resources/build_coral.png
 copyright: true
 ---
 
-{% btn 'https://minecraft.diopong.top/post/commands/', 返回, far fa-hand-point-right,outline green larger %}
+{% btn 'https://dds.2to.fun/post/commands/', 返回, far fa-hand-point-right,outline green larger %}
 
 ## Home
 本插件可以让服内各位玩家自由定下自己的家的传送点，方便自己。

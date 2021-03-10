@@ -7,4 +7,4 @@ Disallow: /links/
 Disallow: /tags/
 Disallow: /search/
 
-Sitemap: https://diopong.top/sitemap.xml
+Sitemap: https://dds.2to.fun/sitemap.xml

@@ -12,9 +12,9 @@ sticky: 3
 
 服务器由服内各位宝贝维护，希望各位服内人员开心自由地玩，并且尊重别人的劳动成果，在动别人的劳动成果前先征集其作者同意。Have Fun !
 
-<!-- {% btn 'https://blog.diopong.top/post/Minecraft-Server/#服务器信息', 服务器信息, far fa-hand-point-right,outline blue larger %} -->
-{% btn 'https://minecraft.diopong.top/post/crafting/', 服务器指令, far fa-hand-point-right,outline pink larger %}
-{% btn 'https://minecraft.diopong.top/post/commands/', 自定义配方, far fa-hand-point-right,outline red larger %}
+<!-- {% btn 'https://dds.2to.fun/post/Minecraft-Server/#服务器信息', 服务器信息, far fa-hand-point-right,outline blue larger %} -->
+{% btn 'https://dds.2to.fun/post/crafting/', 服务器指令, far fa-hand-point-right,outline pink larger %}
+{% btn 'https://dds.2to.fun/post/commands/', 自定义配方, far fa-hand-point-right,outline red larger %}
 <!--{% btn 'https://butterfly.js.org/', 成员名单, far fa-hand-point-right,outline purple larger %}-->
 
 <!--
@@ -36,4 +36,4 @@ sticky: 3
 
 腐竹【大角鹿】 [(@bilibili)](https://space.bilibili.com/146779378)
 
-网站由 [@Diopong](https://blog.diopong.top) 日常维护
+网站由 [@Diopong](https://www.2to.fun/) 日常维护

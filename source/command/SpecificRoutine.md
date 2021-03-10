@@ -10,7 +10,7 @@ cover: /assets/resources/build_coral.png
 copyright: true
 ---
 
-{% btn 'https://minecraft.diopong.top/post/commands/', 返回, far fa-hand-point-right,outline green larger %}
+{% btn 'https://dds.2to.fun/post/commands/', 返回, far fa-hand-point-right,outline green larger %}
 
 ## SpecificRoutine
 DDServer 日常事件管理。包括管理时间、天气、伪和平等情况。
