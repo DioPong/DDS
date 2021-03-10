@@ -815,7 +815,7 @@ pangu:
 # https://github.com/verlok/lazyload
 lazyload:
   enable: true
-  post: /img/loading.gif
+  post: https://cdn.jsdelivr.net/gh/DioPong/CDN@main/image/animate/loding-circle.svg
 
 # PWA
 # See https://github.com/JLHwung/hexo-offline
@@ -848,7 +848,7 @@ inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
-    # - <script src="xxxx"></script>
+    - <script src="https://cdn.jsdelivr.net/gh/DioPong/CDN@main/Javascript/instant_page_v5.1.0.js" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
 
 rss: /atom.xml
 
